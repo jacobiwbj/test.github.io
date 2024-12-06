@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bcp.bank.bcp",
+    "sha256_cert_fingerprints":
+    ["E3:76:EA:1F:D6:3A:6D:64:C3:75:62:49:F5:87:FD:93:4E:39:29:F6:AD:74:5C:4D:2B:58:44:00:7E:75:61:77"]
+  }
+}]
